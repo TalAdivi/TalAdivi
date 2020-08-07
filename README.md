@@ -4,7 +4,7 @@ I'm ambitious, optimistic and positive software engineer, with high social skill
 
 A team player with a passion for new technologies and high quality coding.
 
-Learning and Shenkar College, Dean’s list certificated with average of 89.7.
+Learning at Shenkar College, Dean’s list certificated with average of 89.7.
 
 Hope you enjoy 😊
 
