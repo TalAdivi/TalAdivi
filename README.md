@@ -1,4 +1,12 @@
 ### Hi there 👋
+#### My name is Tal Adivi
+I'm ambitious, optimistic and positive software engineer, with high social skills, looking for a student development position.
+A team player with a passion for new technologies and high quality coding.
+
+Learning and Shenkar College, Dean’s list certificated with average of 89.7.
+
+Hope you enjoy 😊
+
 
 <!--
 **TalAdivi/TalAdivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
